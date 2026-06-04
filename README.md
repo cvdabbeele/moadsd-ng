@@ -1,3 +1,5 @@
+# **This project has been deprecated in June 2022**
+
 ## See project wiki
 
 The MOADSD-NG project does provide a simple way to setup a hybrid cloud security demo, playground and learning environment within the clouds. Core technologies used (besides of Trend Micro solutions) are the cloud native virtualization functionalities, a full-blown Kubernetes cluster with cluster storage and release management tools (Jenkins / GitLab).
